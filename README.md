@@ -1,4 +1,4 @@
-### Opa
+### Opa 👋
 
  <div align="center">
   <a href="https://github.com/DDevcosta">
