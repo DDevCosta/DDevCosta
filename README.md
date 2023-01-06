@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Prazer, eu sou Douglas e tenho muito interesse em TI
 
 
