@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Prazer, eu sou Douglas e tenho muito interesse em TI
+Estudo TI desde 2020
 
 
 ## 🌐 Sociais:
